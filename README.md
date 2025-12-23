@@ -1,4 +1,4 @@
-# Spotify-Analytics
+# Spotify Tracks Data Analysis using Spotify API
 
 OVERVIEW :
 
